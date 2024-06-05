@@ -26,12 +26,11 @@ CSS3
 * Folder Structure
 Copy code
 signup-page/
-├── css/
-│   └── styles.css
-├── images/
-│   └── logo.png
+├── README.md 
+├── image.png
 ├── index.html
-└── README.md
+└──css/
+│   └── styles.css
 
 index.html: The main HTML file for the sign-up page.
 css/styles.css: The CSS file containing styles for the sign-up page.
